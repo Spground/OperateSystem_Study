@@ -8,16 +8,19 @@ PS:Aging algorithm is a kind of similar to LRU algorithm, one of Page Replacemen
 The simulation result is good, which fits the expect.
 
 1.
-![t0](http://www.baidu.com/img/bdlogo.gif) 
+![t0](https://github.com/Spground/OperateSystem_Study/blob/master/t0.png) 
 
 2.
-![t1](http://www.baidu.com/img/bdlogo.gif)
+![t1](https://github.com/Spground/OperateSystem_Study/blob/master/t1.png)
 
 3.
-![t2](http://www.baidu.com/img/bdlogo.gif)
+![t2](https://github.com/Spground/OperateSystem_Study/blob/master/t2.png)
 
 4.
-![t3](http://www.baidu.com/img/bdlogo.gif)
+![t3](https://github.com/Spground/OperateSystem_Study/blob/master/t3.png)
 
 5.
-![t4](http://www.baidu.com/img/bdlogo.gif)
+![t4](https://github.com/Spground/OperateSystem_Study/blob/master/t4.png)
+
+6.
+![t5](https://github.com/Spground/OperateSystem_Study/blob/master/t5.png)
