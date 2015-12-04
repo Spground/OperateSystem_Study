@@ -5,6 +5,7 @@ when i learn about more.
 PS:Aging algorithm is a kind of similar to LRU algorithm, one of Page Replacement Algorithm at Modern Operate System.
 
 #2 Simulation Result
+simulation:6 times
 The simulation result is good, which fits the expect.
 
 1.
